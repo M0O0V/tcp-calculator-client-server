@@ -2,6 +2,7 @@ using System;
 using System.Net;               // Подключение  для работы с IP-адресами и сетевыми интерфейсами
 using System.Net.Sockets;       // Подключение  для работы с сокетами
 using System.Text;              // Подключение  для работы с кодировками и для преобразования строк
+using System.Threading;
 
 class Server
 {
